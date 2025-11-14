@@ -1,0 +1,22 @@
+# 构建输出目录
+build/
+cmake-build-*/
+out/
+
+# 编译中间文件
+*.o
+*.obj
+*.exe
+*.out
+
+# 依赖库目录 (如果有，如第三方库)
+lib/
+third_party/
+
+# IDE特定文件
+.vscode/
+*.code-workspace
+
+# 其他
+.DS_Store
+*.log

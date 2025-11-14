@@ -1,6 +1,11 @@
+/*
+ * @Author: 辜思学 gusixue@foxmail.com
+ * @Description:
+ * @Date: 2025-11-15 04:17:21
+ */
 #include <iostream>
 
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
     std::cout << "Hello world!" << std::endl;
 }
