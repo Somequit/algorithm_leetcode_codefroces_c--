@@ -3,7 +3,7 @@
  * @Description:
  * @Date: 2025-11-15 04:17:21
  */
-#include <iostream>
+#include <bits/stdc++.h>
 
 int main(int argc, char* argv[])
 {
